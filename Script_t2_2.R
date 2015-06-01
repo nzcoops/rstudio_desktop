@@ -30,3 +30,13 @@ r_data_frame(
   race,
   race
 )
+
+
+
+r_data_frame(
+  n = 500,
+  race,
+  id,
+  race,
+  height_cm()
+)
